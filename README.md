@@ -10,7 +10,7 @@ Originally released in 1981, programmed by Ed Averett.
 
 Created in C with Z88DK (https://z88dk.org) using the SP1 sprite library.          
 Remake by Peter Adriaanse september 2025.  
-Version 0.7 (Sinclair ZX Spectrum 48K emulator or real hardware)  
+Version 1.0 (Sinclair ZX Spectrum 48K emulator or real hardware)  
 
 Press any key at loading screen, followed by any key for controls.  
 Delete (backspace) to quit game/ go back to start screen.  
