@@ -27,7 +27,7 @@ Controls:
 Compile and link from source
 -----------------------------
 First install a Z88DK development environment.
-Use the build.sh (Linux) to compile and create a munchkin_z80.tap file.
+Use the build.sh (Linux) to compile and create a ufo_zx.tap file.
 
 Run binary
 ------------
