@@ -5,8 +5,7 @@ Remake of 34: Odyssey 2 UFO / Philips Videopac Satellite Attack for the Sinclair
 Remake of 34: Odyssey 2 UFO / Philips Videopac Satellite Attack for the Sinclair ZX Spectrum 48K
 Originally released in 1981, programmed by Ed Averett.  
 
-
-![Front_EU_resized](https://github.com/user-attachments/assets/1b689f52-96f4-491d-a65b-a9b82df61858) ![Front_US_resized](https://github.com/user-attachments/assets/0c20c7f1-c6b4-47c8-8a5d-9e2d7b18a3f0)
+![VIDEOPAC34](https://github.com/user-attachments/assets/e59e81c8-26ad-4f07-9313-3080747de6ce)        ![ufo](https://github.com/user-attachments/assets/af2c81f1-2e0d-4c71-8937-58eef53f6a42)
 
 
 Created in C with Z88DK (https://z88dk.org) using the SP1 sprite library.          
