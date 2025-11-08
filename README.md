@@ -20,14 +20,10 @@ Controls:
 - Keyboard (redefinable)
 - Kempston or Cursor joystick
   
-<img width="640" height="480" alt="screen_print" src="https://github.com/user-attachments/assets/5d97a420-42a2-42f1-b3c9-bc8220974a52" />
-
-<img width="640" height="480" alt="start" src="https://github.com/user-attachments/assets/66496557-4797-4b0d-9d2e-55ed92cb8d06" />
-
-<img width="640" height="480" alt="maze1" src="https://github.com/user-attachments/assets/3be03076-9d67-4137-9d45-0ac55e2f5076" />
-
-<img width="640" height="480" alt="maze2" src="https://github.com/user-attachments/assets/6db3ba88-d54b-4c0b-8c6b-8724910d05d3" />
-
+<img width="640" height="480" alt="loading_screen" src="https://github.com/user-attachments/assets/7441596b-cd7d-443e-9319-3b1194b6a716" />
+<img width="640" height="480" alt="start" src="https://github.com/user-attachments/assets/c8012851-2bf0-49df-b1aa-bbe18626d65d" />
+<img width="640" height="480" alt="game1" src="https://github.com/user-attachments/assets/01d96312-8484-4ea5-8fac-f748e6172556" />
+<img width="640" height="480" alt="game2" src="https://github.com/user-attachments/assets/c684d7ab-96de-420e-ad6a-76749193cc7c" />
 
 Compile and link from source
 -----------------------------
