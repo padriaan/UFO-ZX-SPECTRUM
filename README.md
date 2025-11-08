@@ -35,7 +35,7 @@ Run binary
 - Emulator: use the ufo_zx.tap file
 - Real hardware: play the ufo_zx.wav file (using a media player or write to tape)
 
- <img width="600" height="581" alt="38new13_scaled50x60pct" src="https://github.com/user-attachments/assets/82c84b36-322b-4647-9dda-286674bd351c" />
+<img width="1634" height="1581" alt="34_inlay_10" src="https://github.com/user-attachments/assets/0d6370c1-2418-475d-98b6-d69541df467e" />
 
 
 
